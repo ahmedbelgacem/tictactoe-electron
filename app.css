@@ -1,0 +1,17 @@
+table,td {
+  border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+  width: 100%;
+  height: 80%;
+}
+.button{
+text-align: center;
+}
+.tab{
+  border : 1px solid #000;
+  height: 140px;
+  text-align: center;
+  font-size: 5em;
+}
