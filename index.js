@@ -36,7 +36,7 @@ function createWindow() {
   });
   win.loadFile("index.html");
   win.setResizable(false);
-  //win.webContents.openDevTools();
+  win.webContents.openDevTools();
   const menu = Menu.buildFromTemplate(template);
   Menu.setApplicationMenu(menu);
 }
