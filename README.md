@@ -3,7 +3,7 @@
 Tic-tac-toe or Xs and Os is a  paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner [Source: Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe).  
 ## An unbeatable bot for tic-tac-toe:
 It's a solved game, so the only thing "reliable" is that optimal play will lead to, at best, a draw. Unless your opponent makes mistakes, and the board just isn’t complicated enough to try to force your opponent into mis-reading a complicated situation [Source: Josuhua Engel on Quora](https://www.quora.com/What-is-the-most-reliable-strategy-for-winning-at-Tic-Tac-Toe-once-your-adversary-has-claimed-the-center-square/answer/Joshua-Engel).
-The goal of this project was to use the following map created by [Randall Munroe](https://xkcd.com/832/) and to put every possible state into a graph in order to create a bot you can't beat at a game of tic-tac-toe.
+The goal of this project was to use the following map created by [Randall Munroe](https://xkcd.com/832/) and to put every possible state into a graph in order to create a bot you can't beat at a game of tic-tac-toe.  
 Complete map of optimal tic-tac-toe moves:
 ![complete map of optimal tic-tac-toe moves](https://imgs.xkcd.com/comics/tic_tac_toe.png)
 ## Notes:
