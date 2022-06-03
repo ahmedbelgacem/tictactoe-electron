@@ -7,8 +7,8 @@ The goal of this project was to use the following map created by [Randall Munroe
 Complete map of optimal tic-tac-toe moves:
 ![complete map of optimal tic-tac-toe moves](https://imgs.xkcd.com/comics/tic_tac_toe.png)
 ## Notes:
-This game was built with ElectronJS to create a simple desktop app.
-This project is not up to date and you should only use it as a reference.
+- This game was built with ElectronJS to create a simple desktop app.
+- This project is not up to date and you should only use it as a reference.
 ## License:
 ```
 This program is free software: you can redistribute it and/or modify
